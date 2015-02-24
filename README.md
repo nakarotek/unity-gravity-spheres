@@ -26,6 +26,7 @@ These are the steps I took to make the example scene
 3. add mesh collider to Planet sphere
 4. add `fauxGravityBody.cs` to Player Controller
 5. add `fauxGravityController.cs` to Player Controller
-6. add RigidBody to Player Controller
-7. add Capsule collider to Player Controller
 8. add `MouseLook.cs` to Player Controller
+6. add RigidBody to Player Controller
+7. add capsule collider to Player Controller
+
