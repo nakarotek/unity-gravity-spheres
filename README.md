@@ -3,7 +3,7 @@
 
 ## Example of gravity around sphere
 	
-* These are the steps I took to make the example scene
+These are the steps I took to make the example scene
 
 1. create sphere as Planet
 2. add sphere collider to Planet sphere
@@ -17,7 +17,7 @@
 
 ## Example of gravity inside sphere
 
-* These are the steps I took to make the example scene
+These are the steps I took to make the example scene
 
 1. import sphere with inverted/flipped normals
 2. invert scale of Planet sphere
