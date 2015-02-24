@@ -25,6 +25,7 @@ These are the steps I took to make the example scene
 2. add `fauxGravityAttractor.cs` to Planet sphere 
 3. add mesh collider to Planet sphere
 4. add `fauxGravityBody.cs` to Player Controller
+4. set Planet as Attractor
 5. add `fauxGravityController.cs` to Player Controller
 8. add `MouseLook.cs` to Player Controller
 6. add RigidBody to Player Controller
